@@ -1,0 +1,6 @@
+D:\Programming\Hotelsystem\DataAccess\bin\Debug\DataAccess.dll
+D:\Programming\Hotelsystem\DataAccess\bin\Debug\DataAccess.pdb
+D:\Programming\Hotelsystem\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Programming\Hotelsystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Programming\Hotelsystem\DataAccess\obj\Debug\DataAccess.dll
+D:\Programming\Hotelsystem\DataAccess\obj\Debug\DataAccess.pdb
